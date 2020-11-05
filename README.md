@@ -1,2 +1,2 @@
-# tvhead
-Repo to demonstrate and host the software I used and wrote for my TV head hardware project.
+# TV Head
+This repo is to document and explain my TV head hardware project as well as hosting the code that was used and written.
