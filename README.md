@@ -38,6 +38,7 @@ I used this repo to help me drive the LED matrix panels, as it includes a driver
 https://github.com/rm-hull/luma.led_matrix
 
 With SSH I went into the Pi and set up the software I'd need. I also set the script to run on startup so that I didn't need to run it manually.
+The script I wrote (startup.py) uses the luma.led module to display faces on the screen.
 
 To control the different faces on the display, I reused some of the old push buttons that were on the CRT front panel board by desoldering them and reconnecting them to GPIO wires that could plug into the Pi. Be warned however, a soldering iron's heat can melt the plastic insides of the button, rendering it inoperable.
 
